@@ -7,3 +7,11 @@
 ## Goal
 
 sync slack teams in a manner similar to how 1Password syncs vaults using Dropbox
+
+## Methods
+
+### Code Injection
+- [Injection Plugin for Xcode](https://github.com/johnno1962/injectionforxcode)
+
+### Dropbox
+- [Dropbox for Swift Developers](https://www.dropbox.com/developers/documentation/swift)
