@@ -15,3 +15,11 @@ sync slack teams in a manner similar to how 1Password syncs vaults using Dropbox
 
 ### Dropbox
 - [Dropbox for Swift Developers](https://www.dropbox.com/developers/documentation/swift)
+
+## Steps
+
+1. Open a Chrome Incognito window
+
+2. Navigate to https://slack.com/signin/find
+
+3. Enter email address(es) (Network request returns email(s))
